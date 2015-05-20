@@ -1,0 +1,4 @@
+# Module stockwatcher
+# RPC service class, partial path of RPC policy file
+com.billy.StockWatcher.client.LoginService, 303609E7DF049115A23A89DB8D1869E4.gwt.rpc
+com.billy.StockWatcher.client.StockService, 1E27E9EA3A2AB8F4F02A293F3BE7DF86.gwt.rpc

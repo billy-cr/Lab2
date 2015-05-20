@@ -1,0 +1,2 @@
+serviceClass: com.billy.StockWatcher.client.StockService
+path: 1E27E9EA3A2AB8F4F02A293F3BE7DF86.gwt.rpc
